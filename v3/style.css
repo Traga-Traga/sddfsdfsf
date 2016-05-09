@@ -1,13 +1,6 @@
 #chatWindow,
 #minimap_box,
 #shortcutsWindow { position: absolute; } /* display: none */
-#Youtube { 
-position: absolute;
-right:60px;
-top:0;
-left:0;
-z-index:9999;
-}
 #minimap_token_input {
     margin-bottom: 10px;
     opacity: 0.9;
